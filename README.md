@@ -7,4 +7,4 @@
   - Construction Heuristic For Traveling Salesman Problem (TSP)
   - QRCode Generator(PNG/SVG)
   - Screen Capture
-  - 
+  - Snake game
